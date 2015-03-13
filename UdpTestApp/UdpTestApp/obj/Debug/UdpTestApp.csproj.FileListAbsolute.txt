@@ -1,0 +1,9 @@
+D:\WorkingFolder\UDPTestApp\UdpTestApp\UdpTestApp\bin\Debug\UdpTestApp.exe.config
+D:\WorkingFolder\UDPTestApp\UdpTestApp\UdpTestApp\bin\Debug\UdpTestApp.exe
+D:\WorkingFolder\UDPTestApp\UdpTestApp\UdpTestApp\bin\Debug\UdpTestApp.pdb
+D:\WorkingFolder\UDPTestApp\UdpTestApp\UdpTestApp\obj\Debug\UdpTestApp.csprojResolveAssemblyReference.cache
+D:\WorkingFolder\UDPTestApp\UdpTestApp\UdpTestApp\obj\Debug\UdpTestApp.Form1.resources
+D:\WorkingFolder\UDPTestApp\UdpTestApp\UdpTestApp\obj\Debug\UdpTestApp.Properties.Resources.resources
+D:\WorkingFolder\UDPTestApp\UdpTestApp\UdpTestApp\obj\Debug\UdpTestApp.csproj.GenerateResource.Cache
+D:\WorkingFolder\UDPTestApp\UdpTestApp\UdpTestApp\obj\Debug\UdpTestApp.exe
+D:\WorkingFolder\UDPTestApp\UdpTestApp\UdpTestApp\obj\Debug\UdpTestApp.pdb
